@@ -1,0 +1,1 @@
+start cmd /k java -jar "C:\Users\Chamber\Documents\AlarmNoUpdateWatch\AlarmNoUpdateWatch.jar"
